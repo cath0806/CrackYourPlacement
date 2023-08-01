@@ -9,18 +9,19 @@ Notice that you may not slant the container.
  
 
 Example 1:
+````
 ![image](https://github.com/cath0806/CrackYourPlacement/assets/96349137/62df68ee-6826-4460-8b5d-c30c748b4d5d)
-
-
 Input: height = [1,8,6,2,5,4,8,3,7]
 Output: 49
 Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,7]. In this case, the max area of water (blue section) the container can contain is 49.
+`````
 
 
 Example 2:
-
+``````
 Input: height = [1,1]
 Output: 1
+``````
  
 
 Constraints:
