@@ -8,7 +8,7 @@ Notice that you may not slant the container.
 
  
 
-Example 1:
+#### Example 1:
 
 ![image](https://github.com/cath0806/CrackYourPlacement/assets/96349137/62df68ee-6826-4460-8b5d-c30c748b4d5d)
 `````
@@ -18,16 +18,14 @@ Explanation: The above vertical lines are represented by array [1,8,6,2,5,4,8,3,
 `````
 
 
-Example 2:
+#### Example 2:
 ``````
 Input: height = [1,1]
 Output: 1
 ``````
  
 
-Constraints:
-`````
-n == height.length
-2 <= n <= 10^5
-0 <= height[i] <= 10^4
-`````
+#### Constraints:
+* n == height.length
+* 2 <= n <= 10^5
+* 0 <= height[i] <= 10^4
